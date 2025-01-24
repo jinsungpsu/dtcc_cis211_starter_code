@@ -1,12 +1,8 @@
 /*
  * @author Delaware Technical Community College
  * Starter and/or reference code provided for Delaware Technical Community College courses.
- */
-
-/**
- * Interface representing a generic stack data structure.
  *
- * @param <T> The type of elements in this stack.
+ * Stack ADT
  */
 public interface Stack<T> {
 
