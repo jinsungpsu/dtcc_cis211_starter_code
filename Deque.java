@@ -1,7 +1,9 @@
 /**
  * @author Delaware Technical Community College
  * Starter and/or reference code provided for Delaware Technical Community College courses.
+ *
  * Deque (Double Ended Queue) ADT
+ *
  * based on https://people.cs.vt.edu/shaffer/Book/JAVA3elatest.pdf
  */
 public interface Deque<E> {
