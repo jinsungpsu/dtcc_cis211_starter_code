@@ -1,10 +1,13 @@
 /**
  * @author Delaware Technical Community College
  * Starter and/or reference code provided for Delaware Technical Community College courses.
+ *
  * Queue ADT
+ *
  * based on https://people.cs.vt.edu/shaffer/Book/JAVA3elatest.pdf
  * Page 125
  */
+
 public interface Queue<E> {
 
     /**
